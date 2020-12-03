@@ -1,0 +1,56 @@
+
+Total execution time:2342
+PlayedGames=2
+ numberWins=1
+ numberLose= 0
+ repeatThrows= 1
+ probabilityWinning = 0.5000
+
+Total execution time:5595
+PlayedGames=29
+ numberWins=6
+ numberLose= 5
+ repeatThrows= 18
+ probabilityWinning = 0.2069
+
+Total execution time:8733
+PlayedGames=338
+ numberWins=68
+ numberLose= 43
+ repeatThrows= 227
+ probabilityWinning = 0.2012
+
+Total execution time:12958
+PlayedGames=3319
+ numberWins=715
+ numberLose= 396
+ repeatThrows= 2208
+ probabilityWinning = 0.2154
+
+Total execution time:16949
+PlayedGames=33278
+ numberWins=7423
+ numberLose= 3688
+ repeatThrows= 22167
+ probabilityWinning = 0.2231
+
+Total execution time:23196
+PlayedGames=333923
+ numberWins=73811
+ numberLose= 37300
+ repeatThrows= 222812
+ probabilityWinning = 0.2210
+
+Total execution time:93188
+PlayedGames=3336067
+ numberWins=740154
+ numberLose= 370957
+ repeatThrows= 2224956
+ probabilityWinning = 0.2219
+
+Total execution time:118800
+PlayedGames=9335840
+ numberWins=2073457
+ numberLose= 1037654
+ repeatThrows= 6224729
+ probabilityWinning = 0.2221
